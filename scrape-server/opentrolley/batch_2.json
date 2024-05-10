@@ -1,0 +1,65 @@
+[
+    {
+        "original_isbn": "525478817",
+        "img": "https://otimages.com/Bookcover/4179/9780142424179.jpg",
+        "price": "S$ 24.40",
+        "url": "https://opentrolley.com.sg/book/9780142424179/fault-in-our-stars",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "618260307",
+        "img": "https://otimages.com/Bookcover/8227/9780547928227.jpg",
+        "price": "S$ 28.46",
+        "url": "https://opentrolley.com.sg/book/9780547928227/hobbit",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "316769177",
+        "img": "https://otimages.com/Bookcover/9488/9780316769488.jpg",
+        "price": "S$ 14.51",
+        "url": "https://opentrolley.com.sg/book/9780316769488/catcher-in-the-rye-r-",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "679783261",
+        "img": "https://otimages.com/Bookcover/9518/9780141439518.jpg",
+        "price": "S$ 16.04",
+        "url": "https://opentrolley.com.sg/book/9780141439518/pride-prejudice-rev-e",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "1594480001",
+        "img": "https://otimages.com/Bookcover/1931/9781594631931.jpg",
+        "price": "S$ 27.20",
+        "url": "https://opentrolley.com.sg/book/9781594631931/kite-runner-10th-anniv-e",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "62024035",
+        "img": "https://otimages.com/Bookcover/7240/9780062387240.jpg",
+        "price": "S$ 28.35",
+        "url": "https://opentrolley.com.sg/book/9780062387240/divergent",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "451524934",
+        "img": "https://otimages.com/Bookcover/4234/9780452284234.jpg",
+        "price": "S$ 28.76",
+        "url": "https://opentrolley.com.sg/book/9780452284234/1984",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "452284244",
+        "img": "https://otimages.com/Bookcover/4241/9780452284241.jpg",
+        "price": "S$ 22.90",
+        "url": "https://opentrolley.com.sg/book/9780452284241/animal-farm",
+        "provider": "OpenTrolley"
+    }, 
+    {
+        "original_isbn": "553296981",
+        "img": "",
+        "price": "",
+        "url": "",
+        "provider": "OpenTrolley"
+    }
+]

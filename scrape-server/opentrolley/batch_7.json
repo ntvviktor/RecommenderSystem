@@ -1,0 +1,2473 @@
+[
+    {
+        "original_isbn": "1101875046",
+        "img": "https://otimages.com/Bookcover/3984/9781101873984.jpg",
+        "price": "S$ 27.90",
+        "url": "https://opentrolley.com.sg/book/9781101873984/in-the-unlikely-event",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "553119222",
+        "img": "https://otimages.com/Bookcover/3556/9780062073556.jpg",
+        "price": "S$ 28.33",
+        "url": "https://opentrolley.com.sg/book/9780062073556/death-on-the-nile",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "689862229",
+        "img": "https://otimages.com/Bookcover/5827/9780689835827.jpg",
+        "price": "S$ 13.23",
+        "url": "https://opentrolley.com.sg/book/9780689835827/shiloh",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "805094601",
+        "img": "https://otimages.com/Bookcover/6231/9781250196231.jpg",
+        "price": "S$ 60.64",
+        "url": "https://opentrolley.com.sg/book/9781250196231/shadow-bone-trilogy-boxed-se",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "1416971734",
+        "img": "https://otimages.com/Bookcover/9084/9780316129084.jpg",
+        "price": "S$ 35.33",
+        "url": "https://opentrolley.com.sg/book/9780316129084/leviathan-wakes",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "6498523",
+        "img": "https://otimages.com/Bookcover/8862/9781338838862.jpg",
+        "price": "S$ 20.44",
+        "url": "https://opentrolley.com.sg/book/9781338838862/6-hide-and-seek-stories-gabby",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "743470125",
+        "img": "https://otimages.com/Bookcover/0124/9780743470124.jpg",
+        "price": "S$ 28.44",
+        "url": "https://opentrolley.com.sg/book/9780743470124/goodnight-nobody",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "60921145",
+        "img": "https://otimages.com/Bookcover/8500/9780062278500.jpg",
+        "price": "S$ 31.31",
+        "url": "https://opentrolley.com.sg/book/9780062278500/animal-dreams",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "345416260",
+        "img": "https://otimages.com/Bookcover/3380/9781954123380.jpg",
+        "price": "S$ 53.96",
+        "url": "https://opentrolley.com.sg/book/9781954123380/confessions-of-pope-joan",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "679776818",
+        "img": "https://otimages.com/Bookcover/4804/9780063214804.jpg",
+        "price": "S$ 31.35",
+        "url": "https://opentrolley.com.sg/book/9780063214804/boop",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "345443284",
+        "img": "https://otimages.com/Bookcover/4652/9781501154652.jpg",
+        "price": "S$ 24.99",
+        "url": "https://opentrolley.com.sg/book/9781501154652/then-she-was-gone",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "1423108361",
+        "img": "https://otimages.com/Bookcover/7006/9781368037006.jpg",
+        "price": "S$ 16.37",
+        "url": "https://opentrolley.com.sg/book/9781368037006/artemis-fowl-bk6-time-paradox",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "059044297X",
+        "img": "https://otimages.com/Bookcover/0444/9780062950444.jpg",
+        "price": "S$ 9.42",
+        "url": "https://opentrolley.com.sg/book/9780062950444/molly-of-denali-berry-itchy-day",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "803734735",
+        "img": "https://otimages.com/Bookcover/6012/9780142426012.jpg",
+        "price": "S$ 27.30",
+        "url": "https://opentrolley.com.sg/book/9780142426012/bitterblue",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "61020664",
+        "img": "https://otimages.com/Bookcover/5733/9780062225733.jpg",
+        "price": "S$ 15.91",
+        "url": "https://opentrolley.com.sg/book/9780062225733/wyrd-sisters",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "1301347949",
+        "img": "https://otimages.com/Bookcover/2716/9781683592716.jpg",
+        "price": "S$ 37.76",
+        "url": "https://opentrolley.com.sg/book/9781683592716/unseen-realm",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "62200577",
+        "img": "https://otimages.com/Bookcover/0587/9780062200587.jpg",
+        "price": "S$ 33.23",
+        "url": "https://opentrolley.com.sg/book/9780062200587/nos4a2",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "140434747",
+        "img": "https://otimages.com/Bookcover/4933/9781912714933.jpg",
+        "price": "S$ 44.87",
+        "url": "https://opentrolley.com.sg/book/9781912714933/tenant-of-wildfell-hall",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "965476022",
+        "img": "https://otimages.com/Bookcover/3439/9780679813439.jpg",
+        "price": "S$ 13.87",
+        "url": "https://opentrolley.com.sg/book/9780679813439/black-stallion",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "64410145",
+        "img": "https://otimages.com/Bookcover/0144/9780064410144.jpg",
+        "price": "S$ 23.47",
+        "url": "https://opentrolley.com.sg/book/9780064410144/sue-11-grim-grotto",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "8424133498",
+        "img": "https://otimages.com/Bookcover/7659/9781481477659.jpg",
+        "price": "S$ 30.91",
+        "url": "https://opentrolley.com.sg/book/9781481477659/merry-xmas-strega-nona",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "983212546",
+        "img": "https://otimages.com/Bookcover/6866/9780593696866.jpg",
+        "price": "S$ 35.41",
+        "url": "https://opentrolley.com.sg/book/9780593696866/playing-for-keeps",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "452286034",
+        "img": "https://otimages.com/Bookcover/1020/9781960961020.jpg",
+        "price": "S$ 38.59",
+        "url": "https://opentrolley.com.sg/book/9781960961020/bitten-by-death",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "545424941",
+        "img": "https://otimages.com/Bookcover/4950/9780545424950.jpg",
+        "price": "S$ 21.84",
+        "url": "https://opentrolley.com.sg/book/9780545424950/dream-thieves",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "141439637",
+        "img": "https://otimages.com/Bookcover/1269/9780141441269.jpg",
+        "price": "S$ 24.43",
+        "url": "https://opentrolley.com.sg/book/9780141441269/portrait-of-a-lady",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "486290727",
+        "img": "https://otimages.com/Bookcover/6439/9798988516439.jpg",
+        "price": "S$ 54.96",
+        "url": "https://opentrolley.com.sg/book/9798988516439/gold",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "486298574",
+        "img": "https://otimages.com/Bookcover/2278/9781684222278.jpg",
+        "price": "S$ 5.33",
+        "url": "https://opentrolley.com.sg/book/9781684222278/yellow-wallpaper",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "1455561789",
+        "img": "https://otimages.com/Bookcover/4335/9781324074335.jpg",
+        "price": "S$ 46.38",
+        "url": "https://opentrolley.com.sg/book/9781324074335/going-infinite",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "836204387",
+        "img": "https://otimages.com/Bookcover/4384/9780836204384.jpg",
+        "price": "S$ 37.28",
+        "url": "https://opentrolley.com.sg/book/9780836204384/calvin-hobbes-10th-anniv-bk",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "1596912855",
+        "img": "https://otimages.com/Bookcover/2861/9781596912861.jpg",
+        "price": "S$ 27.22",
+        "url": "https://opentrolley.com.sg/book/9781596912861/austenland",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "385523238",
+        "img": "https://otimages.com/Bookcover/8193/9780736988193.jpg",
+        "price": "S$ 20.44",
+        "url": "https://opentrolley.com.sg/book/9780736988193/dock-tok-presentsthe-good-the",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "451197968",
+        "img": "https://otimages.com/Bookcover/6783/9780593296783.jpg",
+        "price": "S$ 46.83",
+        "url": "https://opentrolley.com.sg/book/9780593296783/good-for-a-girl",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "031242440X",
+        "img": "https://otimages.com/Bookcover/4018/9781250784018.jpg",
+        "price": "S$ 25.23",
+        "url": "https://opentrolley.com.sg/book/9781250784018/gilead",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "006091307X",
+        "img": "https://otimages.com/Bookcover/3076/9780060913076.jpg",
+        "price": "S$ 22.47",
+        "url": "https://opentrolley.com.sg/book/9780060913076/crying-of-lot-49",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "525953094",
+        "img": "https://otimages.com/Bookcover/4018/9780451474018.jpg",
+        "price": "S$ 46.96",
+        "url": "https://opentrolley.com.sg/book/9780451474018/edge-of-eternity",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "8498000831",
+        "img": "https://otimages.com/Bookcover/2291/9780547572291.jpg",
+        "price": "S$ 27.42",
+        "url": "https://opentrolley.com.sg/book/9780547572291/ubik",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "1857231511",
+        "img": "https://otimages.com/Bookcover/4253/9780345314253.jpg",
+        "price": "S$ 18.00",
+        "url": "https://opentrolley.com.sg/book/9780345314253/sword-of-shannara",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "99297701",
+        "img": "https://otimages.com/Bookcover/7665/9781783297665.jpg",
+        "price": "S$ 56.78",
+        "url": "https://opentrolley.com.sg/book/9781783297665/feeding-hannibal",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "60586133",
+        "img": "/assets/img_cover_placeholder.png",
+        "price": "S$ 18.32",
+        "url": "https://opentrolley.com.sg/book/9780974535647/3-wishes",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "743466527",
+        "img": "https://otimages.com/Bookcover/1196/9781937691196.jpg",
+        "price": "S$ 25.56",
+        "url": "https://opentrolley.com.sg/book/9781937691196/fall-on-your-knees-2-e",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "054522490X",
+        "img": "https://otimages.com/Bookcover/4918/9780545224918.jpg",
+        "price": "S$ 21.77",
+        "url": "https://opentrolley.com.sg/book/9780545224918/scorpio-races",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "345539842",
+        "img": "https://otimages.com/Bookcover/9861/9780345539861.jpg",
+        "price": "S$ 29.71",
+        "url": "https://opentrolley.com.sg/book/9780345539861/morning-star",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "441005764",
+        "img": "https://otimages.com/Bookcover/2385/9780142302385.jpg",
+        "price": "S$ 18.58",
+        "url": "https://opentrolley.com.sg/book/9780142302385/redwall-mossflower",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "1250077001",
+        "img": "https://otimages.com/Bookcover/7028/9781250077028.jpg",
+        "price": "S$ 29.30",
+        "url": "https://opentrolley.com.sg/book/9781250077028/furiously-happy",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "312986343",
+        "img": "https://otimages.com/Bookcover/5107/9781250165107.jpg",
+        "price": "S$ 19.93",
+        "url": "https://opentrolley.com.sg/book/9781250165107/twice-the-plum",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "1405910216",
+        "img": "https://otimages.com/Bookcover/9856/9780593639856.jpg",
+        "price": "S$ 49.23",
+        "url": "https://opentrolley.com.sg/book/9780593639856/night-island",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "1439164630",
+        "img": "https://otimages.com/Bookcover/4655/9781439164655.jpg",
+        "price": "S$ 29.28",
+        "url": "https://opentrolley.com.sg/book/9781439164655/left-neglected",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "765316994",
+        "img": "https://otimages.com/Bookcover/1215/9781250781215.jpg",
+        "price": "S$ 28.61",
+        "url": "https://opentrolley.com.sg/book/9781250781215/redshirts",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "61245097",
+        "img": "https://otimages.com/Bookcover/5091/9780061245091.jpg",
+        "price": "S$ 14.28",
+        "url": "https://opentrolley.com.sg/book/9780061245091/1-foot-in-the-grave",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "60890681",
+        "img": "https://otimages.com/Bookcover/0681/9780060890681.jpg",
+        "price": "S$ 29.02",
+        "url": "https://opentrolley.com.sg/book/9780060890681/last-anniv",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "312349513",
+        "img": "https://otimages.com/Bookcover/9523/9780312349523.jpg",
+        "price": "S$ 18.37",
+        "url": "https://opentrolley.com.sg/book/9780312349523/fearless-14",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "7174160",
+        "img": "https://otimages.com/Bookcover/2750/9780062422750.jpg",
+        "price": "S$ 13.59",
+        "url": "https://opentrolley.com.sg/book/9780062422750/bear-called-paddington",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "440800463",
+        "img": "https://otimages.com/Bookcover/9564/9780380709564.jpg",
+        "price": "S$ 14.86",
+        "url": "https://opentrolley.com.sg/book/9780380709564/ramona-quimby-age-8",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "446364800",
+        "img": "https://otimages.com/Bookcover/9107/9780446679107.jpg",
+        "price": "S$ 30.76",
+        "url": "https://opentrolley.com.sg/book/9780446679107/generals-daughter",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "1405206128",
+        "img": "https://otimages.com/Bookcover/8660/9780064408660.jpg",
+        "price": "S$ 27.86",
+        "url": "https://opentrolley.com.sg/book/9780064408660/sue-08-sue-8-the-hostile-hos",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "451219422",
+        "img": "https://otimages.com/Bookcover/3983/9780060853983.jpg",
+        "price": "S$ 16.61",
+        "url": "https://opentrolley.com.sg/book/9780060853983/good-omens",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "446572993",
+        "img": "https://otimages.com/Bookcover/9551/9780593099551.jpg",
+        "price": "S$ 27.55",
+        "url": "https://opentrolley.com.sg/book/9780593099551/before-we-were-innocent",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "446402397",
+        "img": "https://otimages.com/Bookcover/3773/9781401973773.jpg",
+        "price": "S$ 30.72",
+        "url": "https://opentrolley.com.sg/book/9781401973773/flsh-card-inner-child-oracle",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "60987510",
+        "img": "https://otimages.com/Bookcover/8033/9780061458033.jpg",
+        "price": "S$ 29.17",
+        "url": "https://opentrolley.com.sg/book/9780061458033/these-is-my-words",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "425260933",
+        "img": "https://otimages.com/Bookcover/0937/9780425260937.jpg",
+        "price": "S$ 28.87",
+        "url": "https://opentrolley.com.sg/book/9780425260937/hypnotists-love-story",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "440339340",
+        "img": "https://otimages.com/Bookcover/6299/9780440246299.jpg",
+        "price": "S$ 17.65",
+        "url": "https://opentrolley.com.sg/book/9780440246299/worth-dying-for",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "031601477X",
+        "img": "https://otimages.com/Bookcover/4587/9780316024587.jpg",
+        "price": "S$ 64.26",
+        "url": "https://opentrolley.com.sg/book/9780316024587/sundays-at-tiffanys-lp-lp-e",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "743418735",
+        "img": "https://otimages.com/Bookcover/3461/9781423663461.jpg",
+        "price": "S$ 32.59",
+        "url": "https://opentrolley.com.sg/book/9781423663461/houseplant-hookups",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "081297235X",
+        "img": "https://otimages.com/Bookcover/2442/9781596142442.jpg",
+        "price": "S$ 28.83",
+        "url": "https://opentrolley.com.sg/book/9781596142442/33-days-to-morning-glory",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "3442723434",
+        "img": "https://otimages.com/Bookcover/0443/9780385490443.jpg",
+        "price": "S$ 29.53",
+        "url": "https://opentrolley.com.sg/book/9780385490443/alias-grace",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "316056634",
+        "img": "https://otimages.com/Bookcover/3915/9780593703915.jpg",
+        "price": "S$ 22.19",
+        "url": "https://opentrolley.com.sg/book/9780593703915/society-for-soulless-girls",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "689878567",
+        "img": "https://otimages.com/Bookcover/0528/9781507220528.jpg",
+        "price": "S$ 30.23",
+        "url": "https://opentrolley.com.sg/book/9781507220528/norse-mythology-the-gods-godde",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "446614831",
+        "img": "https://otimages.com/Bookcover/6647/9780446696647.jpg",
+        "price": "S$ 33.11",
+        "url": "https://opentrolley.com.sg/book/9780446696647/3rd-degree",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "385480016",
+        "img": "https://otimages.com/Bookcover/0017/9780385480017.jpg",
+        "price": "S$ 25.08",
+        "url": "https://opentrolley.com.sg/book/9780385480017/bird-by-bird",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "553296124",
+        "img": "https://otimages.com/Bookcover/6129/9780553296129.jpg",
+        "price": "S$ 14.63",
+        "url": "https://opentrolley.com.sg/book/9780553296129/sw-thrawn-01-heir-to-the-empi",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "689878575",
+        "img": "https://otimages.com/Bookcover/7450/9781665937450.jpg",
+        "price": "S$ 89.63",
+        "url": "https://opentrolley.com.sg/book/9781665937450/song-of-the-lioness-quartet-b",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "042510687X",
+        "img": "https://otimages.com/Bookcover/6098/9780345476098.jpg",
+        "price": "S$ 17.52",
+        "url": "https://opentrolley.com.sg/book/9780345476098/guns-of-august",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "1594631573",
+        "img": "https://otimages.com/Bookcover/3881/9781594633881.jpg",
+        "price": "S$ 25.57",
+        "url": "https://opentrolley.com.sg/book/9781594633881/vacationers",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "1857988094",
+        "img": "https://otimages.com/Bookcover/6701/9780593496701.jpg",
+        "price": "S$ 47.88",
+        "url": "https://opentrolley.com.sg/book/9780593496701/lexington",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "015204566X",
+        "img": "https://otimages.com/Bookcover/1221/9780544541221.jpg",
+        "price": "S$ 15.56",
+        "url": "https://opentrolley.com.sg/book/9780544541221/dealing-w-dragons",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "515130974",
+        "img": "https://otimages.com/Bookcover/6078/9781609456078.jpg",
+        "price": "S$ 23.53",
+        "url": "https://opentrolley.com.sg/book/9781609456078/a-winter-s-promise-book-one-of-the-mirror-visitor-",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "425205819",
+        "img": "https://otimages.com/Bookcover/5815/9780425205815.jpg",
+        "price": "S$ 18.24",
+        "url": "https://opentrolley.com.sg/book/9780425205815/rules-of-prey",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "7149824",
+        "img": "https://otimages.com/Bookcover/9834/9780007149834.jpg",
+        "price": "S$ 31.14",
+        "url": "https://opentrolley.com.sg/book/9780007149834/yiddish-policemens-union",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "345528670",
+        "img": "https://otimages.com/Bookcover/8681/9780345528681.jpg",
+        "price": "S$ 27.90",
+        "url": "https://opentrolley.com.sg/book/9780345528681/aviators-wife",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "593065700",
+        "img": "https://otimages.com/Bookcover/5064/9781957635064.jpg",
+        "price": "S$ 25.00",
+        "url": "https://opentrolley.com.sg/book/9781957635064/satans-affair",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "205313426",
+        "img": "https://otimages.com/Bookcover/9023/9780205309023.jpg",
+        "price": "S$ 14.17",
+        "url": "https://opentrolley.com.sg/book/9780205309023/elements-of-style-4-e",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "140620613",
+        "img": "https://otimages.com/Bookcover/1351/9780141441351.jpg",
+        "price": "S$ 12.32",
+        "url": "https://opentrolley.com.sg/book/9780141441351/turn-of-the-screw",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "743294297",
+        "img": "https://otimages.com/Bookcover/3022/9780358473022.jpg",
+        "price": "S$ 28.23",
+        "url": "https://opentrolley.com.sg/book/9780358473022/stick-stone-best-friends-for",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "156865054X",
+        "img": "https://otimages.com/Bookcover/1921/9780671741921.jpg",
+        "price": "S$ 17.65",
+        "url": "https://opentrolley.com.sg/book/9780671741921/mote-in-gods-eye",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "1401308201",
+        "img": "https://otimages.com/Bookcover/8209/9781401308209.jpg",
+        "price": "S$ 73.61",
+        "url": "https://opentrolley.com.sg/book/9781401308209/wicked",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "074348486X",
+        "img": "",
+        "price": "",
+        "url": "",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "1563892618",
+        "img": "",
+        "price": "",
+        "url": "",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "451528921",
+        "img": "https://otimages.com/Bookcover/1988/9780451531988.jpg",
+        "price": "S$ 9.69",
+        "url": "https://opentrolley.com.sg/book/9780451531988/cyrano-de-bergerac",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "1841496863",
+        "img": "https://otimages.com/Bookcover/8369/9780441018369.jpg",
+        "price": "S$ 12.65",
+        "url": "https://opentrolley.com.sg/book/9780441018369/bone-crossed",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "159514319X",
+        "img": "https://otimages.com/Bookcover/6137/9781595146137.jpg",
+        "price": "S$ 25.56",
+        "url": "https://opentrolley.com.sg/book/9781595146137/indigo-spell",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "385341652",
+        "img": "https://otimages.com/Bookcover/4400/9780440244400.jpg",
+        "price": "S$ 16.47",
+        "url": "https://opentrolley.com.sg/book/9780440244400/dreamfever",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "316010707",
+        "img": "https://otimages.com/Bookcover/0702/9780316010702.jpg",
+        "price": "S$ 28.96",
+        "url": "https://opentrolley.com.sg/book/9780316010702/case-histories",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "1563892251",
+        "img": "https://otimages.com/Bookcover/3807/9781503213807.jpg",
+        "price": "S$ 13.30",
+        "url": "https://opentrolley.com.sg/book/9781503213807/dolls-house",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "689849109",
+        "img": "https://otimages.com/Bookcover/2069/9780486432069.jpg",
+        "price": "S$ 12.65",
+        "url": "https://opentrolley.com.sg/book/9780486432069/pollyanna",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "1490904387",
+        "img": "https://otimages.com/Bookcover/8255/9781400238255.jpg",
+        "price": "S$ 59.25",
+        "url": "https://opentrolley.com.sg/book/9781400238255/not-that-fancy",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "1439102759",
+        "img": "https://otimages.com/Bookcover/1732/9781250871732.jpg",
+        "price": "S$ 46.15",
+        "url": "https://opentrolley.com.sg/book/9781250871732/lone-wolf",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "385341679",
+        "img": "https://otimages.com/Bookcover/4417/9780440244417.jpg",
+        "price": "S$ 19.93",
+        "url": "https://opentrolley.com.sg/book/9780440244417/shadowfever",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "385517831",
+        "img": "https://otimages.com/Bookcover/6933/9781250276933.jpg",
+        "price": "S$ 49.29",
+        "url": "https://opentrolley.com.sg/book/9781250276933/fund",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "1595406557",
+        "img": "https://otimages.com/Bookcover/8834/9781454948834.jpg",
+        "price": "S$ 19.42",
+        "url": "https://opentrolley.com.sg/book/9781454948834/merry-adv-of-robin-hood",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "679781498",
+        "img": "https://otimages.com/Bookcover/1493/9780679781493.jpg",
+        "price": "S$ 26.98",
+        "url": "https://opentrolley.com.sg/book/9780679781493/less-than-zero",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "670021873",
+        "img": "https://otimages.com/Bookcover/9494/9780143119494.jpg",
+        "price": "S$ 28.38",
+        "url": "https://opentrolley.com.sg/book/9780143119494/faithful-place",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "802122558",
+        "img": "https://otimages.com/Bookcover/0567/9781800180567.jpg",
+        "price": "S$ 24.58",
+        "url": "https://opentrolley.com.sg/book/9781800180567/gender-euphoria",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "586008357",
+        "img": "https://otimages.com/Bookcover/3401/9780553293401.jpg",
+        "price": "S$ 13.66",
+        "url": "https://opentrolley.com.sg/book/9780553293401/caves-of-steel",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "380709244",
+        "img": "https://otimages.com/Bookcover/9243/9780380709243.jpg",
+        "price": "S$ 16.35",
+        "url": "https://opentrolley.com.sg/book/9780380709243/mouse-the-motorcycle",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "575090855",
+        "img": "https://otimages.com/Bookcover/6824/9780385736824.jpg",
+        "price": "S$ 21.24",
+        "url": "https://opentrolley.com.sg/book/9780385736824/forest-of-hands-teeth",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "736693416",
+        "img": "https://otimages.com/Bookcover/5546/9780345285546.jpg",
+        "price": "S$ 15.74",
+        "url": "https://opentrolley.com.sg/book/9780345285546/elfstones-of-shannara",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "316074314",
+        "img": "https://otimages.com/Bookcover/4292/9780316074292.jpg",
+        "price": "S$ 41.72",
+        "url": "https://opentrolley.com.sg/book/9780316074292/luminaries",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "553588257",
+        "img": "https://otimages.com/Bookcover/0842/9781645660842.jpg",
+        "price": "S$ 48.97",
+        "url": "https://opentrolley.com.sg/book/9781645660842/escape-velocity",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "316779423",
+        "img": "https://otimages.com/Bookcover/9425/9780316779425.jpg",
+        "price": "S$ 26.00",
+        "url": "https://opentrolley.com.sg/book/9780316779425/barrel-fever",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "552152951",
+        "img": "https://otimages.com/Bookcover/7354/9780062237354.jpg",
+        "price": "S$ 15.91",
+        "url": "https://opentrolley.com.sg/book/9780062237354/reaper-man",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "143037749",
+        "img": "https://otimages.com/Bookcover/9288/9780374109288.jpg",
+        "price": "S$ 42.43",
+        "url": "https://opentrolley.com.sg/book/9780374109288/beautyland",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "345335708",
+        "img": "/assets/img_cover_placeholder.png",
+        "price": "S$ 14.46",
+        "url": "https://opentrolley.com.sg/book/9780345335708/belgariad-04-castle-of-wizard",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "451233166",
+        "img": "",
+        "price": "",
+        "url": "",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "345469011",
+        "img": "https://otimages.com/Bookcover/3659/9781735613659.jpg",
+        "price": "S$ 24.44",
+        "url": "https://opentrolley.com.sg/book/9781735613659/widowed-parents-unite",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "7157150",
+        "img": "https://otimages.com/Bookcover/4900/9780743234900.jpg",
+        "price": "S$ 22.69",
+        "url": "https://opentrolley.com.sg/book/9780743234900/out-of-the-silent-planet",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "142404128",
+        "img": "",
+        "price": "",
+        "url": "",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "684853159",
+        "img": "https://otimages.com/Bookcover/3154/9780684853154.jpg",
+        "price": "S$ 24.88",
+        "url": "https://opentrolley.com.sg/book/9780684853154/wasp-factory",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "140006788X",
+        "img": "https://otimages.com/Bookcover/6328/9780762486328.jpg",
+        "price": "S$ 55.80",
+        "url": "https://opentrolley.com.sg/book/9780762486328/50-oscar-nights",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "385536976",
+        "img": "https://otimages.com/Bookcover/3788/9780345803788.jpg",
+        "price": "S$ 28.87",
+        "url": "https://opentrolley.com.sg/book/9780345803788/crazy-rich-asians",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "385733410",
+        "img": "https://otimages.com/Bookcover/2553/9780795352553.jpg",
+        "price": "S$ 38.84",
+        "url": "https://opentrolley.com.sg/book/9780795352553/rebel-angels",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "038533916X",
+        "img": "https://otimages.com/Bookcover/0990/9780440240990.jpg",
+        "price": "S$ 14.42",
+        "url": "https://opentrolley.com.sg/book/9780440240990/bloodfever",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "385341636",
+        "img": "https://otimages.com/Bookcover/4394/9780440244394.jpg",
+        "price": "S$ 14.63",
+        "url": "https://opentrolley.com.sg/book/9780440244394/faefever",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "159474758X",
+        "img": "https://otimages.com/Bookcover/9315/9781594749315.jpg",
+        "price": "S$ 26.56",
+        "url": "https://opentrolley.com.sg/book/9781594749315/lib-of-souls",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "486424545",
+        "img": "https://otimages.com/Bookcover/2131/9780141182131.jpg",
+        "price": "S$ 21.25",
+        "url": "https://opentrolley.com.sg/book/9780141182131/howards-end",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "140439242",
+        "img": "https://otimages.com/Bookcover/6366/9781016056366.jpg",
+        "price": "S$ 51.61",
+        "url": "https://opentrolley.com.sg/book/9781016056366/fre-vicomte-de-bragelonne-ou-d",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "60885432",
+        "img": "https://otimages.com/Bookcover/1862/9780060581862.jpg",
+        "price": "S$ 19.95",
+        "url": "https://opentrolley.com.sg/book/9780060581862/lh-little-town-on-the-prairie",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "312181108",
+        "img": "https://otimages.com/Bookcover/1654/9780312201654.jpg",
+        "price": "S$ 27.95",
+        "url": "https://opentrolley.com.sg/book/9780312201654/i-capture-the-castle",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "312383282",
+        "img": "https://otimages.com/Bookcover/3299/9780312383299.jpg",
+        "price": "S$ 16.70",
+        "url": "https://opentrolley.com.sg/book/9780312383299/finger-lickin-15",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "451200810",
+        "img": "https://otimages.com/Bookcover/1675/9781506721675.jpg",
+        "price": "S$ 41.67",
+        "url": "https://opentrolley.com.sg/book/9781506721675/avatar-the-last-airbender-nor",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "044101819X",
+        "img": "/assets/img_cover_placeholder.png",
+        "price": "S$ 60.34",
+        "url": "https://opentrolley.com.sg/book/9781664618763/silver-borne-7d",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "752858491",
+        "img": "https://otimages.com/Bookcover/8215/9780345538215.jpg",
+        "price": "S$ 20.96",
+        "url": "https://opentrolley.com.sg/book/9780345538215/bourne-ultimatum",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "6486010",
+        "img": "https://otimages.com/Bookcover/5399/9780593725399.jpg",
+        "price": "S$ 33.94",
+        "url": "https://opentrolley.com.sg/book/9780593725399/fools-errand",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "078684907X",
+        "img": "https://otimages.com/Bookcover/9079/9780786849079.jpg",
+        "price": "S$ 17.30",
+        "url": "https://opentrolley.com.sg/book/9780786849079/peter-the-starcatchers-pete",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "143036556",
+        "img": "",
+        "price": "",
+        "url": "",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "679735909",
+        "img": "https://otimages.com/Bookcover/5908/9780679735908.jpg",
+        "price": "S$ 31.27",
+        "url": "https://opentrolley.com.sg/book/9780679735908/possession",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "425143325",
+        "img": "https://otimages.com/Bookcover/3322/9780425143322.jpg",
+        "price": "S$ 19.63",
+        "url": "https://opentrolley.com.sg/book/9780425143322/without-remorse",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "671685635",
+        "img": "https://otimages.com/Bookcover/7019/9781400337019.jpg",
+        "price": "S$ 43.24",
+        "url": "https://opentrolley.com.sg/book/9781400337019/ghosts-of-honolulu",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "64410153",
+        "img": "https://otimages.com/Bookcover/0151/9780064410151.jpg",
+        "price": "S$ 26.37",
+        "url": "https://opentrolley.com.sg/book/9780064410151/sue-12-sue-12-the-penultimat",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "076790382X",
+        "img": "https://otimages.com/Bookcover/4283/9783640284283.jpg",
+        "price": "S$ 66.16",
+        "url": "https://opentrolley.com.sg/book/9783640284283/bill-brysons-view-of-grt-brita",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "64410161",
+        "img": "https://otimages.com/Bookcover/6503/9798986406503.jpg",
+        "price": "S$ 21.40",
+        "url": "https://opentrolley.com.sg/book/9798986406503/dont-believe-everything-you-th",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "143035746",
+        "img": "https://otimages.com/Bookcover/5749/9780143035749.jpg",
+        "price": "S$ 27.86",
+        "url": "https://opentrolley.com.sg/book/9780143035749/liars-club-rev-e-10-e",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "193700788X",
+        "img": "https://otimages.com/Bookcover/0849/9781250890849.jpg",
+        "price": "S$ 43.13",
+        "url": "https://opentrolley.com.sg/book/9781250890849/everyone-who-can-forgive-me-is",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "000712774X",
+        "img": "https://otimages.com/Bookcover/8185/9781451678185.jpg",
+        "price": "S$ 17.70",
+        "url": "https://opentrolley.com.sg/book/9781451678185/illus-man",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "60775823",
+        "img": "https://otimages.com/Bookcover/1622/9780063111622.jpg",
+        "price": "S$ 15.91",
+        "url": "https://opentrolley.com.sg/book/9780063111622/el-conejito-andarin-board-bk",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "385517238",
+        "img": "https://otimages.com/Bookcover/3451/9781633883451.jpg",
+        "price": "S$ 31.68",
+        "url": "https://opentrolley.com.sg/book/9781633883451/murder-in-music-city",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "452277752",
+        "img": "",
+        "price": "",
+        "url": "",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "812551494",
+        "img": "https://otimages.com/Bookcover/7847/9780804197847.jpg",
+        "price": "S$ 53.13",
+        "url": "https://opentrolley.com.sg/book/9780804197847/burning-of-the-world",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "345434803",
+        "img": "https://otimages.com/Bookcover/4807/9780345434807.jpg",
+        "price": "S$ 16.40",
+        "url": "https://opentrolley.com.sg/book/9780345434807/vampire-armand",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "054762834X",
+        "img": "https://otimages.com/Bookcover/7659/9781328567659.jpg",
+        "price": "S$ 30.93",
+        "url": "https://opentrolley.com.sg/book/9781328567659/grave-mercy",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "802131786",
+        "img": "https://otimages.com/Bookcover/1782/9780802131782.jpg",
+        "price": "S$ 27.90",
+        "url": "https://opentrolley.com.sg/book/9780802131782/tropic-of-cancer",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "60393491",
+        "img": "https://otimages.com/Bookcover/8432/9780060988432.jpg",
+        "price": "S$ 35.33",
+        "url": "https://opentrolley.com.sg/book/9780060988432/hour-i-1st-believed",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "345534182",
+        "img": "https://otimages.com/Bookcover/9288/9781646119288.jpg",
+        "price": "S$ 15.68",
+        "url": "https://opentrolley.com.sg/book/9781646119288/solar-system-for-kids",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "142000701",
+        "img": "https://otimages.com/Bookcover/3203/9780140053203.jpg",
+        "price": "S$ 19.41",
+        "url": "https://opentrolley.com.sg/book/9780140053203/travels-w-charley",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "145161747X",
+        "img": "https://otimages.com/Bookcover/7481/9781451617481.jpg",
+        "price": "S$ 32.11",
+        "url": "https://opentrolley.com.sg/book/9781451617481/dovekeepers",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "553804693",
+        "img": "https://otimages.com/Bookcover/8965/9780553588965.jpg",
+        "price": "S$ 17.86",
+        "url": "https://opentrolley.com.sg/book/9780553588965/republic-of-thieves",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "1903434777",
+        "img": "https://otimages.com/Bookcover/3743/9783668243743.jpg",
+        "price": "S$ 117.31",
+        "url": "https://opentrolley.com.sg/book/9783668243743/ger-roman-und-film-im-deutschu",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "553804804",
+        "img": "https://otimages.com/Bookcover/3029/9780345533029.jpg",
+        "price": "S$ 19.67",
+        "url": "https://opentrolley.com.sg/book/9780345533029/brother-odd",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "451208641",
+        "img": "",
+        "price": "",
+        "url": "",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "1400076196",
+        "img": "https://otimages.com/Bookcover/0523/9780899420523.jpg",
+        "price": "S$ 8.50",
+        "url": "https://opentrolley.com.sg/book/9780899420523/pray-the-rosary",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "446364495",
+        "img": "https://otimages.com/Bookcover/4287/9781455554287.jpg",
+        "price": "S$ 11.62",
+        "url": "https://opentrolley.com.sg/book/9781455554287/bridges-of-madison-county",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "593057058",
+        "img": "https://otimages.com/Bookcover/1915/9781585361915.jpg",
+        "price": "S$ 12.65",
+        "url": "https://opentrolley.com.sg/book/9781585361915/stella-bats-bk02-stella-batts",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "805090037",
+        "img": "https://otimages.com/Bookcover/6727/9781250806727.jpg",
+        "price": "S$ 27.90",
+        "url": "https://opentrolley.com.sg/book/9781250806727/bring-up-the-bodies",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "1842430246",
+        "img": "https://otimages.com/Bookcover/9498/9780553349498.jpg",
+        "price": "S$ 27.55",
+        "url": "https://opentrolley.com.sg/book/9780553349498/even-cowgirls-get-the-blues",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "375757856",
+        "img": "https://otimages.com/Bookcover/4088/9780140434088.jpg",
+        "price": "S$ 18.44",
+        "url": "https://opentrolley.com.sg/book/9780140434088/moonstone",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "60747226",
+        "img": "https://otimages.com/Bookcover/7220/9780060747220.jpg",
+        "price": "S$ 31.56",
+        "url": "https://opentrolley.com.sg/book/9780060747220/son-of-a-witch-rev-e",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "224081187",
+        "img": "https://otimages.com/Bookcover/6175/9780307386175.jpg",
+        "price": "S$ 25.92",
+        "url": "https://opentrolley.com.sg/book/9780307386175/on-chesil-beach",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "751530484",
+        "img": "https://otimages.com/Bookcover/6721/9781905586721.jpg",
+        "price": "S$ 31.59",
+        "url": "https://opentrolley.com.sg/book/9781905586721/stargate-sg-1-atlantis-points",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "618062416",
+        "img": "https://otimages.com/Bookcover/9526/9780062399526.jpg",
+        "price": "S$ 11.26",
+        "url": "https://opentrolley.com.sg/book/9780062399526/sarah-plain-tall",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "60735414",
+        "img": "https://otimages.com/Bookcover/8491/9781416558491.jpg",
+        "price": "S$ 27.26",
+        "url": "https://opentrolley.com.sg/book/9781416558491/bloodsucking-fiends",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "316038393",
+        "img": "https://otimages.com/Bookcover/8409/9780316038409.jpg",
+        "price": "S$ 27.21",
+        "url": "https://opentrolley.com.sg/book/9780316038409/squirrel-seeks-chipmunk-rev-e",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "62491792",
+        "img": "https://otimages.com/Bookcover/1831/9780062491831.jpg",
+        "price": "S$ 28.13",
+        "url": "https://opentrolley.com.sg/book/9780062491831/commonwealth",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "670175919",
+        "img": "https://otimages.com/Bookcover/1698/9780140501698.jpg",
+        "price": "S$ 15.56",
+        "url": "https://opentrolley.com.sg/book/9780140501698/blueberries-for-sal",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "743289412",
+        "img": "https://otimages.com/Bookcover/7792/9781982147792.jpg",
+        "price": "S$ 30.34",
+        "url": "https://opentrolley.com.sg/book/9781982147792/liseys-story-m-tv-media-tie-in",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "61092193",
+        "img": "https://otimages.com/Bookcover/7408/9780062237408.jpg",
+        "price": "S$ 17.88",
+        "url": "https://opentrolley.com.sg/book/9780062237408/men-at-arms",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "743291476",
+        "img": "https://otimages.com/Bookcover/1484/9780743291484.jpg",
+        "price": "S$ 29.86",
+        "url": "https://opentrolley.com.sg/book/9780743291484/year-of-living-biblically",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "575075066",
+        "img": "https://otimages.com/Bookcover/8257/9780593098257.jpg",
+        "price": "S$ 17.30",
+        "url": "https://opentrolley.com.sg/book/9780593098257/god-emperor-of-dune",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "553381660",
+        "img": "https://otimages.com/Bookcover/3117/9781772783117.jpg",
+        "price": "S$ 32.79",
+        "url": "https://opentrolley.com.sg/book/9781772783117/out-of-the-valley-of-horses",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "192750976",
+        "img": "https://otimages.com/Bookcover/6470/9780061246470.jpg",
+        "price": "S$ 50.77",
+        "url": "https://opentrolley.com.sg/book/9780061246470/ramona-coll-v01-v01-4cy",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "375713344",
+        "img": "https://otimages.com/Bookcover/3347/9780375713347.jpg",
+        "price": "S$ 27.13",
+        "url": "https://opentrolley.com.sg/book/9780375713347/geek-love",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "553375938",
+        "img": "https://otimages.com/Bookcover/5930/9780553375930.jpg",
+        "price": "S$ 22.08",
+        "url": "https://opentrolley.com.sg/book/9780553375930/girls-in-pants-the-3rd-summer",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "525950125",
+        "img": "https://otimages.com/Bookcover/7033/9780593597033.jpg",
+        "price": "S$ 46.34",
+        "url": "https://opentrolley.com.sg/book/9780593597033/north-woods",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "1841492612",
+        "img": "https://otimages.com/Bookcover/4863/9780060724863.jpg",
+        "price": "S$ 27.89",
+        "url": "https://opentrolley.com.sg/book/9780060724863/marshmallow",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "1444729705",
+        "img": "https://otimages.com/Bookcover/0561/9780345530561.jpg",
+        "price": "S$ 16.61",
+        "url": "https://opentrolley.com.sg/book/9780345530561/litigators",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "679731148",
+        "img": "https://otimages.com/Bookcover/1146/9780679731146.jpg",
+        "price": "S$ 27.90",
+        "url": "https://opentrolley.com.sg/book/9780679731146/year-in-provence",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "345298349",
+        "img": "https://otimages.com/Bookcover/7965/9781501177965.jpg",
+        "price": "S$ 27.89",
+        "url": "https://opentrolley.com.sg/book/9781501177965/gorky-park",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "439771277",
+        "img": "https://otimages.com/Bookcover/8255/9781400238255.jpg",
+        "price": "S$ 59.25",
+        "url": "https://opentrolley.com.sg/book/9781400238255/not-that-fancy",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "1405258217",
+        "img": "https://otimages.com/Bookcover/6312/9780316426312.jpg",
+        "price": "S$ 18.93",
+        "url": "https://opentrolley.com.sg/book/9780316426312/code-name-verity-anniv-e",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "425201449",
+        "img": "https://otimages.com/Bookcover/1442/9780425201442.jpg",
+        "price": "S$ 16.75",
+        "url": "https://opentrolley.com.sg/book/9780425201442/body-farm",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "072325804X",
+        "img": "https://otimages.com/Bookcover/8049/9780723258049.jpg",
+        "price": "S$ 82.93",
+        "url": "https://opentrolley.com.sg/book/9780723258049/beatrix-potter-the-comp-tales",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "99771810",
+        "img": "https://otimages.com/Bookcover/4703/9781101984703.jpg",
+        "price": "S$ 30.11",
+        "url": "https://opentrolley.com.sg/book/9781101984703/where-the-deer-the-antelope",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "451464397",
+        "img": "https://otimages.com/Bookcover/4643/9780425284643.jpg",
+        "price": "S$ 28.71",
+        "url": "https://opentrolley.com.sg/book/9780425284643/skin-in-the-game-hidden-asymmetries-in-daily-life",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "61474096",
+        "img": "https://otimages.com/Bookcover/4101/9780061474101.jpg",
+        "price": "S$ 21.49",
+        "url": "https://opentrolley.com.sg/book/9780061474101/anathem",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "60852577",
+        "img": "https://otimages.com/Bookcover/2580/9780060852580.jpg",
+        "price": "S$ 30.58",
+        "url": "https://opentrolley.com.sg/book/9780060852580/lacuna",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "552154288",
+        "img": "https://otimages.com/Bookcover/6285/9780062276285.jpg",
+        "price": "S$ 16.25",
+        "url": "https://opentrolley.com.sg/book/9780062276285/hogfather",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "345435168",
+        "img": "https://otimages.com/Bookcover/1388/9781035901388.jpg",
+        "price": "S$ 52.03",
+        "url": "https://opentrolley.com.sg/book/9781035901388/house-of-open-wounds",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "1451661509",
+        "img": "https://otimages.com/Bookcover/3424/9781496233424.jpg",
+        "price": "S$ 36.32",
+        "url": "https://opentrolley.com.sg/book/9781496233424/black-gun-silver-star",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "552992097",
+        "img": "https://otimages.com/Bookcover/7954/9780345417954.jpg",
+        "price": "S$ 30.05",
+        "url": "https://opentrolley.com.sg/book/9780345417954/hotel-new-hampshire",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "425204669",
+        "img": "https://otimages.com/Bookcover/4665/9780425204665.jpg",
+        "price": "S$ 26.86",
+        "url": "https://opentrolley.com.sg/book/9780425204665/laughing-corpse",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "307932230",
+        "img": "https://otimages.com/Bookcover/7707/9780345527707.jpg",
+        "price": "S$ 15.40",
+        "url": "https://opentrolley.com.sg/book/9780345527707/smokin-17",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "7158505",
+        "img": "https://otimages.com/Bookcover/0899/9780394800899.jpg",
+        "price": "S$ 28.42",
+        "url": "https://opentrolley.com.sg/book/9780394800899/sneetches",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "385333471",
+        "img": "",
+        "price": "",
+        "url": "",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "1597801577",
+        "img": "https://otimages.com/Bookcover/8217/9781597808217.jpg",
+        "price": "S$ 30.79",
+        "url": "https://opentrolley.com.sg/book/9781597808217/windup-girl",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "525425632",
+        "img": "https://otimages.com/Bookcover/6272/9780142426272.jpg",
+        "price": "S$ 18.93",
+        "url": "https://opentrolley.com.sg/book/9780142426272/isla-the-happily-ever-after",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "441014895",
+        "img": "https://otimages.com/Bookcover/4897/9780441014897.jpg",
+        "price": "S$ 13.51",
+        "url": "https://opentrolley.com.sg/book/9780441014897/magic-bites",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "61020672",
+        "img": "https://otimages.com/Bookcover/5726/9780062225726.jpg",
+        "price": "S$ 15.56",
+        "url": "https://opentrolley.com.sg/book/9780062225726/sourcery",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "156512569X",
+        "img": "https://otimages.com/Bookcover/6770/9781565126770.jpg",
+        "price": "S$ 25.63",
+        "url": "https://opentrolley.com.sg/book/9781565126770/mudbound",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "765376458",
+        "img": "https://otimages.com/Bookcover/1211/9781250891211.jpg",
+        "price": "S$ 28.44",
+        "url": "https://opentrolley.com.sg/book/9781250891211/darker-shade-of-magic",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "385743580",
+        "img": "https://otimages.com/Bookcover/4504/9781797214504.jpg",
+        "price": "S$ 34.38",
+        "url": "https://opentrolley.com.sg/book/9781797214504/they-hold-the-line",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "385340583",
+        "img": "https://otimages.com/Bookcover/3694/9780440243694.jpg",
+        "price": "S$ 17.30",
+        "url": "https://opentrolley.com.sg/book/9780440243694/61-hours",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "224064908",
+        "img": "https://otimages.com/Bookcover/0323/9780573700323.jpg",
+        "price": "S$ 29.39",
+        "url": "https://opentrolley.com.sg/book/9780573700323/georges-marvellous-medicine",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "1400033837",
+        "img": "https://otimages.com/Bookcover/3836/9781400033836.jpg",
+        "price": "S$ 27.55",
+        "url": "https://opentrolley.com.sg/book/9781400033836/thousand-acres",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "805080481",
+        "img": "https://otimages.com/Bookcover/3267/9780545663267.jpg",
+        "price": "S$ 24.19",
+        "url": "https://opentrolley.com.sg/book/9780545663267/mockingjay",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "441016154",
+        "img": "https://otimages.com/Bookcover/1791/9780316881791.jpg",
+        "price": "S$ 27.42",
+        "url": "https://opentrolley.com.sg/book/9780316881791/never-cry-wolf",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "689829531",
+        "img": "https://otimages.com/Bookcover/6419/9780593656419.jpg",
+        "price": "S$ 45.80",
+        "url": "https://opentrolley.com.sg/book/9780593656419/mrs-quinns-rise-to-fame",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "375705856",
+        "img": "https://otimages.com/Bookcover/5854/9780375705854.jpg",
+        "price": "S$ 26.79",
+        "url": "https://opentrolley.com.sg/book/9780375705854/plainsong",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "670021040",
+        "img": "https://otimages.com/Bookcover/1077/9780143121077.jpg",
+        "price": "S$ 26.71",
+        "url": "https://opentrolley.com.sg/book/9780143121077/calebs-crossing",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "385340559",
+        "img": "https://otimages.com/Bookcover/5498/9780593725498.jpg",
+        "price": "S$ 16.96",
+        "url": "https://opentrolley.com.sg/book/9780593725498/bad-luck-trouble-movie-tie-",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "452286530",
+        "img": "https://otimages.com/Bookcover/6535/9780452286535.jpg",
+        "price": "S$ 28.27",
+        "url": "https://opentrolley.com.sg/book/9780452286535/jane-austen-bk-club",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "385539703",
+        "img": "https://otimages.com/Bookcover/3386/9781642693386.jpg",
+        "price": "S$ 29.16",
+        "url": "https://opentrolley.com.sg/book/9781642693386/1001-kindergarten-steam-workbk",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "739377728",
+        "img": "https://otimages.com/Bookcover/3312/9780312383312.jpg",
+        "price": "S$ 18.15",
+        "url": "https://opentrolley.com.sg/book/9780312383312/sizzling-16",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "1400063973",
+        "img": "https://otimages.com/Bookcover/4157/9780812974157.jpg",
+        "price": "S$ 32.23",
+        "url": "https://opentrolley.com.sg/book/9780812974157/19th-wife",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "743493915",
+        "img": "https://otimages.com/Bookcover/3915/9781982153915.jpg",
+        "price": "S$ 16.25",
+        "url": "https://opentrolley.com.sg/book/9781982153915/body-of-evidence",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "345522478",
+        "img": "https://otimages.com/Bookcover/9631/9780593359631.jpg",
+        "price": "S$ 25.57",
+        "url": "https://opentrolley.com.sg/book/9780593359631/hounded",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "743211375",
+        "img": "https://otimages.com/Bookcover/2197/9781501192197.jpg",
+        "price": "S$ 29.79",
+        "url": "https://opentrolley.com.sg/book/9781501192197/from-a-buick-8",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "1593083254",
+        "img": "https://otimages.com/Bookcover/4964/9781607104964.jpg",
+        "price": "S$ 49.39",
+        "url": "https://opentrolley.com.sg/book/9781607104964/time-machine-the-island-of-dr",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "1619636077",
+        "img": "https://otimages.com/Bookcover/1039/9781639731039.jpg",
+        "price": "S$ 35.31",
+        "url": "https://opentrolley.com.sg/book/9781639731039/empire-of-storms",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "380789027",
+        "img": "https://otimages.com/Bookcover/9023/9780380789023.jpg",
+        "price": "S$ 13.28",
+        "url": "https://opentrolley.com.sg/book/9780380789023/smoke-mirrors",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "385333501",
+        "img": "https://otimages.com/Bookcover/3504/9780385333504.jpg",
+        "price": "S$ 27.13",
+        "url": "https://opentrolley.com.sg/book/9780385333504/welcome-to-the-monkey-house",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "312367481",
+        "img": "https://otimages.com/Bookcover/7480/9780312367480.jpg",
+        "price": "S$ 14.28",
+        "url": "https://opentrolley.com.sg/book/9780312367480/tikki-tikki-tembo",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "446608815",
+        "img": "https://otimages.com/Bookcover/8817/9780446608817.jpg",
+        "price": "S$ 14.91",
+        "url": "https://opentrolley.com.sg/book/9780446608817/pop-goes-the-weasel",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "571171788",
+        "img": "https://otimages.com/Bookcover/7763/9780062277763.jpg",
+        "price": "S$ 31.31",
+        "url": "https://opentrolley.com.sg/book/9780062277763/pigs-in-heaven",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "074326195X",
+        "img": "https://otimages.com/Bookcover/2170/9780743262170.jpg",
+        "price": "S$ 27.18",
+        "url": "https://opentrolley.com.sg/book/9780743262170/cry-the-beloved-country",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "60987529",
+        "img": "https://otimages.com/Bookcover/7527/9780060987527.jpg",
+        "price": "S$ 33.85",
+        "url": "https://opentrolley.com.sg/book/9780060987527/confessions-of-an-ugly-stepsis",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "3426615355",
+        "img": "https://otimages.com/Bookcover/2894/9781534442894.jpg",
+        "price": "S$ 16.48",
+        "url": "https://opentrolley.com.sg/book/9781534442894/spa-buenas-noches-mi-querido-b",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "553293389",
+        "img": "https://otimages.com/Bookcover/3388/9780553293388.jpg",
+        "price": "S$ 14.98",
+        "url": "https://opentrolley.com.sg/book/9780553293388/foundations-edge",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "486452433",
+        "img": "https://otimages.com/Bookcover/2691/9780241382691.jpg",
+        "price": "S$ 41.38",
+        "url": "https://opentrolley.com.sg/book/9780241382691/jude-the-obscure",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "345335651",
+        "img": "/assets/img_cover_placeholder.png",
+        "price": "S$ 13.99",
+        "url": "https://opentrolley.com.sg/book/9780345335654/belgariad-02-queen-of-sorcery",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "374529531",
+        "img": "",
+        "price": "",
+        "url": "",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "1400067685",
+        "img": "https://otimages.com/Bookcover/9510/9780812979510.jpg",
+        "price": "S$ 26.85",
+        "url": "https://opentrolley.com.sg/book/9780812979510/burgess-boys",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "1444705105",
+        "img": "https://otimages.com/Bookcover/3309/9780143123309.jpg",
+        "price": "S$ 28.53",
+        "url": "https://opentrolley.com.sg/book/9780143123309/broken-harbor",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "517053616",
+        "img": "https://otimages.com/Bookcover/0988/9781626860988.jpg",
+        "price": "S$ 73.63",
+        "url": "https://opentrolley.com.sg/book/9781626860988/comp-works-of-william-shakespe",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "61054887",
+        "img": "https://otimages.com/Bookcover/2750/9780060512750.jpg",
+        "price": "S$ 27.46",
+        "url": "https://opentrolley.com.sg/book/9780060512750/dispossessed",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "385528043",
+        "img": "https://otimages.com/Bookcover/7822/9780199537822.jpg",
+        "price": "S$ 15.32",
+        "url": "https://opentrolley.com.sg/book/9780199537822/st-augustines-confessions",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "425192032",
+        "img": "https://otimages.com/Bookcover/1477/9781368051477.jpg",
+        "price": "S$ 15.82",
+        "url": "https://opentrolley.com.sg/book/9781368051477/percy-jackson-and-the-olympians-book-one-the-light",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "142408808",
+        "img": "https://otimages.com/Bookcover/8803/9780142408803.jpg",
+        "price": "S$ 13.94",
+        "url": "https://opentrolley.com.sg/book/9780142408803/superfudge",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "765340747",
+        "img": "https://otimages.com/Bookcover/6857/9780765356857.jpg",
+        "price": "S$ 54.20",
+        "url": "https://opentrolley.com.sg/book/9780765356857/boxed-sword-of-truth-boxed-3v",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "1616149981",
+        "img": "https://otimages.com/Bookcover/9987/9781616149987.jpg",
+        "price": "S$ 31.88",
+        "url": "https://opentrolley.com.sg/book/9781616149987/life-we-bury",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "425201376",
+        "img": "https://otimages.com/Bookcover/4520/9780515134520.jpg",
+        "price": "S$ 14.98",
+        "url": "https://opentrolley.com.sg/book/9780515134520/lunatic-cafe",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "080508049X",
+        "img": "https://otimages.com/Bookcover/7025/9780786967025.jpg",
+        "price": "S$ 97.39",
+        "url": "https://opentrolley.com.sg/book/9780786967025/d-d-november-title-announced",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "451235843",
+        "img": "https://otimages.com/Bookcover/8283/9780451238283.jpg",
+        "price": "S$ 16.02",
+        "url": "https://opentrolley.com.sg/book/9780451238283/lover-reborn",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "375508333",
+        "img": "https://otimages.com/Bookcover/5333/9780679755333.jpg",
+        "price": "S$ 12.83",
+        "url": "https://opentrolley.com.sg/book/9780679755333/raisin-in-the-sun",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "425184226",
+        "img": "https://otimages.com/Bookcover/9814/9780451489814.jpg",
+        "price": "S$ 23.46",
+        "url": "https://opentrolley.com.sg/book/9780451489814/sum-of-all-fears",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "440241014",
+        "img": "https://otimages.com/Bookcover/2105/9798986822105.jpg",
+        "price": "S$ 58.93",
+        "url": "https://opentrolley.com.sg/book/9798986822105/benghazi",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "6551815",
+        "img": "https://otimages.com/Bookcover/5744/9780684865744.jpg",
+        "price": "S$ 29.30",
+        "url": "https://opentrolley.com.sg/book/9780684865744/tis",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "451218590",
+        "img": "https://otimages.com/Bookcover/9628/9781635579628.jpg",
+        "price": "S$ 51.04",
+        "url": "https://opentrolley.com.sg/book/9781635579628/cocktails-w-george-martha",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "015603297X",
+        "img": "",
+        "price": "",
+        "url": "",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "067056172X",
+        "img": "https://otimages.com/Bookcover/1130/9780451471130.jpg",
+        "price": "S$ 15.68",
+        "url": "https://opentrolley.com.sg/book/9780451471130/pckt-for-corduroy-board",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "1594831114",
+        "img": "https://otimages.com/Bookcover/8199/9780446618199.jpg",
+        "price": "S$ 16.27",
+        "url": "https://opentrolley.com.sg/book/9780446618199/5th-horseman",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "345527712",
+        "img": "https://otimages.com/Bookcover/7738/9780345527738.jpg",
+        "price": "S$ 13.94",
+        "url": "https://opentrolley.com.sg/book/9780345527738/explosive-18",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "385729367",
+        "img": "https://otimages.com/Bookcover/4011/9780385734011.jpg",
+        "price": "S$ 22.69",
+        "url": "https://opentrolley.com.sg/book/9780385734011/forever-in-blue-the-4th-summer",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "552153257",
+        "img": "https://otimages.com/Bookcover/5516/9780062275516.jpg",
+        "price": "S$ 16.25",
+        "url": "https://opentrolley.com.sg/book/9780062275516/feet-of-clay",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "1842430343",
+        "img": "https://otimages.com/Bookcover/7880/9780553377880.jpg",
+        "price": "S$ 28.10",
+        "url": "https://opentrolley.com.sg/book/9780553377880/skinny-legs-all",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "61941026",
+        "img": "https://otimages.com/Bookcover/2175/9780802162175.jpg",
+        "price": "S$ 54.87",
+        "url": "https://opentrolley.com.sg/book/9780802162175/covenant-of-water",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "64404773",
+        "img": "https://otimages.com/Bookcover/1490/9780060241490.jpg",
+        "price": "S$ 32.08",
+        "url": "https://opentrolley.com.sg/book/9780060241490/beauty",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "553582461",
+        "img": "https://otimages.com/Bookcover/2468/9780553582468.jpg",
+        "price": "S$ 19.12",
+        "url": "https://opentrolley.com.sg/book/9780553582468/fools-fate",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "425205673",
+        "img": "https://otimages.com/Bookcover/1693/9780425221693.jpg",
+        "price": "S$ 36.41",
+        "url": "https://opentrolley.com.sg/book/9780425221693/bloody-bones",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "006057299X",
+        "img": "https://otimages.com/Bookcover/0849/9781250890849.jpg",
+        "price": "S$ 43.13",
+        "url": "https://opentrolley.com.sg/book/9781250890849/everyone-who-can-forgive-me-is",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "1400068320",
+        "img": "https://otimages.com/Bookcover/0086/9781955930086.jpg",
+        "price": "S$ 30.14",
+        "url": "https://opentrolley.com.sg/book/9781955930086/last-eligible-billionaire",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "765340054",
+        "img": "https://otimages.com/Bookcover/2445/9780765362445.jpg",
+        "price": "S$ 65.54",
+        "url": "https://opentrolley.com.sg/book/9780765362445/boxed-enders-shadow-series-4v",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "679732268",
+        "img": "https://otimages.com/Bookcover/2266/9780679732266.jpg",
+        "price": "S$ 28.94",
+        "url": "https://opentrolley.com.sg/book/9780679732266/light-in-august",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "64408671",
+        "img": "https://otimages.com/Bookcover/8677/9780064408677.jpg",
+        "price": "S$ 15.56",
+        "url": "https://opentrolley.com.sg/book/9780064408677/trumpet-of-the-swan",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "60885416",
+        "img": "https://otimages.com/Bookcover/1848/9780060581848.jpg",
+        "price": "S$ 19.60",
+        "url": "https://opentrolley.com.sg/book/9780060581848/lh-by-the-shores-of-silver-lak",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "99471434",
+        "img": "https://otimages.com/Bookcover/5603/9780593725603.jpg",
+        "price": "S$ 54.71",
+        "url": "https://opentrolley.com.sg/book/9780593725603/anne-rices-mayfair-chron-3-bk",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "1594487014",
+        "img": "https://otimages.com/Bookcover/0006/9781728260006.jpg",
+        "price": "S$ 21.95",
+        "url": "https://opentrolley.com.sg/book/9781728260006/chaperone",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "451191013",
+        "img": "https://otimages.com/Bookcover/4271/9781501144271.jpg",
+        "price": "S$ 30.21",
+        "url": "https://opentrolley.com.sg/book/9781501144271/regulators",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "1563890356",
+        "img": "https://otimages.com/Bookcover/5814/9781401285814.jpg",
+        "price": "S$ 34.64",
+        "url": "https://opentrolley.com.sg/book/9781401285814/sandman-vol-4-season-of-mists",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "1416500340",
+        "img": "https://otimages.com/Bookcover/4643/9780198724643.jpg",
+        "price": "S$ 15.66",
+        "url": "https://opentrolley.com.sg/book/9780198724643/silas-marner-2-e",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "1622660757",
+        "img": "https://otimages.com/Bookcover/1018/9781591881018.jpg",
+        "price": "S$ 10.75",
+        "url": "https://opentrolley.com.sg/book/9781591881018/hankcd-01-original-adv-of-han",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "439295785",
+        "img": "https://otimages.com/Bookcover/5901/9781943935901.jpg",
+        "price": "S$ 29.27",
+        "url": "https://opentrolley.com.sg/book/9781943935901/ned",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "1594561869",
+        "img": "https://otimages.com/Bookcover/3257/9781512063257.jpg",
+        "price": "S$ 12.32",
+        "url": "https://opentrolley.com.sg/book/9781512063257/cask-of-amontillado",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "014044789X",
+        "img": "https://otimages.com/Bookcover/7372/9780199537372.jpg",
+        "price": "S$ 19.09",
+        "url": "https://opentrolley.com.sg/book/9780199537372/metamorphoses",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "140169300",
+        "img": "https://otimages.com/Bookcover/2765/9781101872765.jpg",
+        "price": "S$ 34.78",
+        "url": "https://opentrolley.com.sg/book/9781101872765/angle-of-repose",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "743457900",
+        "img": "https://otimages.com/Bookcover/9784/9780143119784.jpg",
+        "price": "S$ 32.18",
+        "url": "https://opentrolley.com.sg/book/9780143119784/tinker-tailor-soldier-spy",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "811216012",
+        "img": "https://otimages.com/Bookcover/6012/9780811216012.jpg",
+        "price": "S$ 24.09",
+        "url": "https://opentrolley.com.sg/book/9780811216012/cat-on-a-hot-tin-roof-rev-e-2-",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "553582453",
+        "img": "https://otimages.com/Bookcover/5405/9780593725405.jpg",
+        "price": "S$ 33.94",
+        "url": "https://opentrolley.com.sg/book/9780593725405/golden-fool",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "515133310",
+        "img": "https://otimages.com/Bookcover/3829/9780515143829.jpg",
+        "price": "S$ 20.44",
+        "url": "https://opentrolley.com.sg/book/9780515143829/echo-burning",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "446605484",
+        "img": "https://otimages.com/Bookcover/1214/9781538741214.jpg",
+        "price": "S$ 20.23",
+        "url": "https://opentrolley.com.sg/book/9781538741214/roses-are-red",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "014144116X",
+        "img": "https://otimages.com/Bookcover/1425/9780156711425.jpg",
+        "price": "S$ 22.42",
+        "url": "https://opentrolley.com.sg/book/9780156711425/passage-to-india",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "553381644",
+        "img": "https://otimages.com/Bookcover/0944/9780553280944.jpg",
+        "price": "S$ 18.14",
+        "url": "https://opentrolley.com.sg/book/9780553280944/mammoth-hunters",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "441016383",
+        "img": "https://otimages.com/Bookcover/7966/9780441017966.jpg",
+        "price": "S$ 17.65",
+        "url": "https://opentrolley.com.sg/book/9780441017966/codex-alera-bk05-princeps-fury",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "316952664",
+        "img": "https://otimages.com/Bookcover/3237/9780063043237.jpg",
+        "price": "S$ 23.64",
+        "url": "https://opentrolley.com.sg/book/9780063043237/warriors-winds-of-change",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "1416928170",
+        "img": "https://otimages.com/Bookcover/8171/9781416928171.jpg",
+        "price": "S$ 12.89",
+        "url": "https://opentrolley.com.sg/book/9781416928171/bunnicula-r-e",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "440241006",
+        "img": "https://otimages.com/Bookcover/5988/9780440245988.jpg",
+        "price": "S$ 17.02",
+        "url": "https://opentrolley.com.sg/book/9780440245988/persuader",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "312270828",
+        "img": "",
+        "price": "",
+        "url": "",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "044101769X",
+        "img": "https://otimages.com/Bookcover/9625/9780441019625.jpg",
+        "price": "S$ 19.05",
+        "url": "https://opentrolley.com.sg/book/9780441019625/1st-lords-fury",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "385343663",
+        "img": "https://otimages.com/Bookcover/5660/9781119835660.jpg",
+        "price": "S$ 54.30",
+        "url": "https://opentrolley.com.sg/book/9781119835660/problem-solving-mindsets",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "61020656",
+        "img": "https://otimages.com/Bookcover/5740/9780062225740.jpg",
+        "price": "S$ 15.91",
+        "url": "https://opentrolley.com.sg/book/9780062225740/pyramids",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "449911659",
+        "img": "https://otimages.com/Bookcover/1655/9780449911655.jpg",
+        "price": "S$ 26.92",
+        "url": "https://opentrolley.com.sg/book/9780449911655/rabbit-run",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "590319671",
+        "img": "https://otimages.com/Bookcover/0042/9780064440042.jpg",
+        "price": "S$ 9.40",
+        "url": "https://opentrolley.com.sg/book/9780064440042/little-bear",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "146000110",
+        "img": "https://otimages.com/Bookcover/7290/9780198827290.jpg",
+        "price": "S$ 42.00",
+        "url": "https://opentrolley.com.sg/book/9780198827290/pit-the-pendulum-other-tal",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "055215315X",
+        "img": "https://otimages.com/Bookcover/7392/9780062237392.jpg",
+        "price": "S$ 16.25",
+        "url": "https://opentrolley.com.sg/book/9780062237392/lords-ladies",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "552152676",
+        "img": "https://otimages.com/Bookcover/4985/9780062334985.jpg",
+        "price": "S$ 16.61",
+        "url": "https://opentrolley.com.sg/book/9780062334985/thud",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "142401110",
+        "img": "https://otimages.com/Bookcover/2422/9780141312422.jpg",
+        "price": "S$ 15.34",
+        "url": "https://opentrolley.com.sg/book/9780141312422/my-side-of-the-mountain",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "451159535",
+        "img": "https://otimages.com/Bookcover/1061/9781416591061.jpg",
+        "price": "S$ 28.60",
+        "url": "https://opentrolley.com.sg/book/9781416591061/empire-of-the-summer-moon",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "805066691",
+        "img": "https://otimages.com/Bookcover/6843/9780805086843.jpg",
+        "price": "S$ 36.49",
+        "url": "https://opentrolley.com.sg/book/9780805086843/bury-my-heart-at-wounded-m-tv",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "345459407",
+        "img": "https://otimages.com/Bookcover/3021/9780345443021.jpg",
+        "price": "S$ 40.02",
+        "url": "https://opentrolley.com.sg/book/9780345443021/perdido-street-station",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "61020613",
+        "img": "https://otimages.com/Bookcover/7361/9780062237361.jpg",
+        "price": "S$ 15.84",
+        "url": "https://opentrolley.com.sg/book/9780062237361/witches-abroad",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "014043769X",
+        "img": "https://otimages.com/Bookcover/5819/9780199555819.jpg",
+        "price": "S$ 20.00",
+        "url": "https://opentrolley.com.sg/book/9780199555819/sketch-bk-of-geoffrey-crayon-g",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "441328008",
+        "img": "https://otimages.com/Bookcover/8264/9780593098264.jpg",
+        "price": "S$ 18.21",
+        "url": "https://opentrolley.com.sg/book/9780593098264/heretics-of-dune",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "441015271",
+        "img": "https://otimages.com/Bookcover/6556/9780441016556.jpg",
+        "price": "S$ 19.28",
+        "url": "https://opentrolley.com.sg/book/9780441016556/codex-alera-bk04-captains-fury",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "307263991",
+        "img": "https://otimages.com/Bookcover/6681/9780307276681.jpg",
+        "price": "S$ 29.93",
+        "url": "https://opentrolley.com.sg/book/9780307276681/swamplandia",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "057506689X",
+        "img": "https://otimages.com/Bookcover/7100/9781683597100.jpg",
+        "price": "S$ 29.75",
+        "url": "https://opentrolley.com.sg/book/9781683597100/church-music",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "034547063X",
+        "img": "https://otimages.com/Bookcover/4104/9781635574104.jpg",
+        "price": "S$ 58.00",
+        "url": "https://opentrolley.com.sg/book/9781635574104/crescent-city-3",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "441013406",
+        "img": "https://otimages.com/Bookcover/3401/9780441013401.jpg",
+        "price": "S$ 20.90",
+        "url": "https://opentrolley.com.sg/book/9780441013401/codex-alera-bk02-academs-fury",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "446676438",
+        "img": "https://otimages.com/Bookcover/4351/9781250254351.jpg",
+        "price": "S$ 25.57",
+        "url": "https://opentrolley.com.sg/book/9781250254351/any-way-the-wind-blows",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "440226708",
+        "img": "https://otimages.com/Bookcover/5863/9781596145863.jpg",
+        "price": "S$ 25.00",
+        "url": "https://opentrolley.com.sg/book/9781596145863/diary-of-a-future-st",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "143036661",
+        "img": "https://otimages.com/Bookcover/8167/9781501108167.jpg",
+        "price": "S$ 46.03",
+        "url": "https://opentrolley.com.sg/book/9781501108167/deerfield-massacre",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "446611212",
+        "img": "https://otimages.com/Bookcover/1213/9780446611213.jpg",
+        "price": "S$ 14.63",
+        "url": "https://opentrolley.com.sg/book/9780446611213/violets-are-blue",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "99399016",
+        "img": "https://otimages.com/Bookcover/6453/9780679756453.jpg",
+        "price": "S$ 24.81",
+        "url": "https://opentrolley.com.sg/book/9780679756453/portnoys-complaint",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "385491026",
+        "img": "https://otimages.com/Bookcover/6118/9781648276118.jpg",
+        "price": "S$ 42.07",
+        "url": "https://opentrolley.com.sg/book/9781648276118/walking-cat-a-cats-eye-view-of",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "1841492051",
+        "img": "https://otimages.com/Bookcover/2445/9780765362445.jpg",
+        "price": "S$ 65.54",
+        "url": "https://opentrolley.com.sg/book/9780765362445/boxed-enders-shadow-series-4v",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "99481685",
+        "img": "https://otimages.com/Bookcover/2969/9780440422969.jpg",
+        "price": "S$ 15.07",
+        "url": "https://opentrolley.com.sg/book/9780440422969/skipping-xmas",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "375702709",
+        "img": "https://otimages.com/Bookcover/2709/9780375702709.jpg",
+        "price": "S$ 23.60",
+        "url": "https://opentrolley.com.sg/book/9780375702709/lesson-before-dying",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "606298231",
+        "img": "https://otimages.com/Bookcover/0551/9781250320551.jpg",
+        "price": "S$ 47.43",
+        "url": "https://opentrolley.com.sg/book/9781250320551/sisters-of-the-rising-sun",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "425169693",
+        "img": "https://otimages.com/Bookcover/2946/9780593422946.jpg",
+        "price": "S$ 44.87",
+        "url": "https://opentrolley.com.sg/book/9780593422946/heaven-earth-grocery-store",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "679436545",
+        "img": "https://otimages.com/Bookcover/5603/9780593725603.jpg",
+        "price": "S$ 54.71",
+        "url": "https://opentrolley.com.sg/book/9780593725603/anne-rices-mayfair-chron-3-bk",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "385515049",
+        "img": "https://otimages.com/Bookcover/5887/9781668035887.jpg",
+        "price": "S$ 31.75",
+        "url": "https://opentrolley.com.sg/book/9781668035887/christmas-appeal",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "689878583",
+        "img": "https://otimages.com/Bookcover/7450/9781665937450.jpg",
+        "price": "S$ 89.63",
+        "url": "https://opentrolley.com.sg/book/9781665937450/song-of-the-lioness-quartet-b",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "055255264X",
+        "img": "https://otimages.com/Bookcover/5279/9780062435279.jpg",
+        "price": "S$ 27.09",
+        "url": "https://opentrolley.com.sg/book/9780062435279/hat-full-of-sky",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "441014348",
+        "img": "https://otimages.com/Bookcover/5474/9780441015474.jpg",
+        "price": "S$ 20.33",
+        "url": "https://opentrolley.com.sg/book/9780441015474/codex-alera-bk03-cursors-fury",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "449912558",
+        "img": "https://otimages.com/Bookcover/8465/9780063248465.jpg",
+        "price": "S$ 31.84",
+        "url": "https://opentrolley.com.sg/book/9780063248465/kozo-the-sparrow",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "552152943",
+        "img": "https://otimages.com/Bookcover/7347/9780062237347.jpg",
+        "price": "S$ 16.25",
+        "url": "https://opentrolley.com.sg/book/9780062237347/moving-pict",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "99498596",
+        "img": "https://otimages.com/Bookcover/1738/9780385341738.jpg",
+        "price": "S$ 29.41",
+        "url": "https://opentrolley.com.sg/book/9780385341738/circle-of-friends",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "60515228",
+        "img": "https://otimages.com/Bookcover/5232/9780060515232.jpg",
+        "price": "S$ 14.63",
+        "url": "https://opentrolley.com.sg/book/9780060515232/fragile-things",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "61031321",
+        "img": "https://otimages.com/Bookcover/7392/9780062307392.jpg",
+        "price": "S$ 16.61",
+        "url": "https://opentrolley.com.sg/book/9780062307392/thief-of-time",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "385721420",
+        "img": "https://otimages.com/Bookcover/1424/9780385721424.jpg",
+        "price": "S$ 28.44",
+        "url": "https://opentrolley.com.sg/book/9780385721424/3-junes",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "552154229",
+        "img": "https://otimages.com/Bookcover/0138/9780062280138.jpg",
+        "price": "S$ 16.61",
+        "url": "https://opentrolley.com.sg/book/9780062280138/5th-elephant",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "385722206",
+        "img": "https://otimages.com/Bookcover/7626/9782070757626.jpg",
+        "price": "S$ 79.97",
+        "url": "https://opentrolley.com.sg/book/9782070757626/fre-balzac-et-la-petite-taille",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "64400581",
+        "img": "https://otimages.com/Bookcover/0589/9780064400589.jpg",
+        "price": "S$ 15.14",
+        "url": "https://opentrolley.com.sg/book/9780064400589/julie-of-the-wolves",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "451530179",
+        "img": "https://otimages.com/Bookcover/5225/9780140185225.jpg",
+        "price": "S$ 25.57",
+        "url": "https://opentrolley.com.sg/book/9780140185225/of-human-bondage",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "395169615",
+        "img": "https://otimages.com/Bookcover/9399/9780395259399.jpg",
+        "price": "S$ 17.12",
+        "url": "https://opentrolley.com.sg/book/9780395259399/mike-mulligan-his-steam-shov",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "61161640",
+        "img": "https://otimages.com/Bookcover/7303/9798988547303.jpg",
+        "price": "S$ 44.83",
+        "url": "https://opentrolley.com.sg/book/9798988547303/profit-1st-for-lawyers",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "618164413",
+        "img": "https://otimages.com/Bookcover/4489/9780544644489.jpg",
+        "price": "S$ 68.10",
+        "url": "https://opentrolley.com.sg/book/9780544644489/comp-adv-of-curio-75th-anniv-e",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "380821214",
+        "img": "https://otimages.com/Bookcover/7318/9781499807318.jpg",
+        "price": "S$ 29.00",
+        "url": "https://opentrolley.com.sg/book/9781499807318/jack-not-jackie-",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "1563890933",
+        "img": "https://otimages.com/Bookcover/8075/9781401288075.jpg",
+        "price": "S$ 33.86",
+        "url": "https://opentrolley.com.sg/book/9781401288075/sandman-vol-5-a-game-of-you-30",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "440184622",
+        "img": "https://otimages.com/Bookcover/7555/9781982537555.jpg",
+        "price": "S$ 50.50",
+        "url": "https://opentrolley.com.sg/book/9781982537555/tai-pan",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "413771164",
+        "img": "https://otimages.com/Bookcover/3814/9781433613814.jpg",
+        "price": "S$ 74.50",
+        "url": "https://opentrolley.com.sg/book/9781433613814/she-reads-truth-bible-csb",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "1416584080",
+        "img": "https://otimages.com/Bookcover/8101/9781668018101.jpg",
+        "price": "S$ 18.37",
+        "url": "https://opentrolley.com.sg/book/9781668018101/just-after-sunset",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "552154164",
+        "img": "https://otimages.com/Bookcover/0206/9780062280206.jpg",
+        "price": "S$ 16.61",
+        "url": "https://opentrolley.com.sg/book/9780062280206/jingo",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "689878362",
+        "img": "",
+        "price": "",
+        "url": "",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "61051586",
+        "img": "https://otimages.com/Bookcover/0145/9780062280145.jpg",
+        "price": "S$ 16.25",
+        "url": "https://opentrolley.com.sg/book/9780062280145/carpe-jugulum",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "575058080",
+        "img": "https://otimages.com/Bookcover/5523/9780062275523.jpg",
+        "price": "S$ 15.91",
+        "url": "https://opentrolley.com.sg/book/9780062275523/maskerade",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "552154180",
+        "img": "https://otimages.com/Bookcover/0190/9780062280190.jpg",
+        "price": "S$ 16.25",
+        "url": "https://opentrolley.com.sg/book/9780062280190/last-continent",
+        "provider": "OpenTrolley"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "original_isbn": "439023491",
+        "img": "https://otimages.com/Bookcover/6177/9780545586177.jpg",
+        "price": "S$ 24.32",
+        "url": "https://opentrolley.com.sg/book/9780545586177/catching-fire",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "043965548X",
+        "img": "https://otimages.com/Bookcover/5283/9781338815283.jpg",
+        "price": "S$ 71.71",
+        "url": "https://opentrolley.com.sg/book/9781338815283/harry-potter-the-prisoner-of",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "618346252",
+        "img": "https://otimages.com/Bookcover/8210/9780547928210.jpg",
+        "price": "S$ 31.44",
+        "url": "https://opentrolley.com.sg/book/9780547928210/fellowship-of-the-ring",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "439023513",
+        "img": "https://otimages.com/Bookcover/3267/9780545663267.jpg",
+        "price": "S$ 24.19",
+        "url": "https://opentrolley.com.sg/book/9780545663267/mockingjay",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "439358078",
+        "img": "https://otimages.com/Bookcover/1434/9780545791434.jpg",
+        "price": "S$ 109.72",
+        "url": "https://opentrolley.com.sg/book/9780545791434/harry-potter-the-order-of-th",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "316166685",
+        "img": "https://otimages.com/Bookcover/8816/9780316168816.jpg",
+        "price": "S$ 32.46",
+        "url": "https://opentrolley.com.sg/book/9780316168816/lovely-bones",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "439064864",
+        "img": "https://otimages.com/Bookcover/6535/9781338716535.jpg",
+        "price": "S$ 66.09",
+        "url": "https://opentrolley.com.sg/book/9781338716535/harry-potter-the-chamber-of",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "439139600",
+        "img": "https://otimages.com/Bookcover/1427/9780545791427.jpg",
+        "price": "S$ 93.45",
+        "url": "https://opentrolley.com.sg/book/9780545791427/harry-potter-the-goblet-of-f",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "545010225",
+        "img": "https://otimages.com/Bookcover/8981/9781338878981.jpg",
+        "price": "S$ 29.53",
+        "url": "https://opentrolley.com.sg/book/9781338878981/harry-potter-the-deathly-hal",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "307277674",
+        "img": "https://otimages.com/Bookcover/7671/9780307277671.jpg",
+        "price": "S$ 28.25",
+        "url": "https://opentrolley.com.sg/book/9780307277671/da-vinci-code-m-tv",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "439785960",
+        "img": "https://otimages.com/Bookcover/8974/9781338878974.jpg",
+        "price": "S$ 26.14",
+        "url": "https://opentrolley.com.sg/book/9781338878974/harry-potter-the-half-blood",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "140283331",
+        "img": "https://otimages.com/Bookcover/1487/9780399501487.jpg",
+        "price": "S$ 17.44",
+        "url": "https://opentrolley.com.sg/book/9780399501487/lord-of-the-flies",
+        "provider": "OpenTrolley"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "original_isbn": "439023483",
+        "img": "https://otimages.com/Bookcover/3528/9780439023528.jpg",
+        "price": "S$ 24.04",
+        "url": "https://opentrolley.com.sg/book/9780439023528/hunger-games",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "439554934",
+        "img": "https://otimages.com/Bookcover/9040/9781537549040.jpg",
+        "price": "S$ 17.84",
+        "url": "https://opentrolley.com.sg/book/9781537549040/harry-potter-the-philosopher",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "316015849",
+        "img": "https://otimages.com/Bookcover/6270/9781250256270.jpg",
+        "price": "S$ 61.69",
+        "url": "https://opentrolley.com.sg/book/9781250256270/wheel-of-time-premium-boxed-se",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "61120081",
+        "img": "https://otimages.com/Bookcover/2523/9781493052523.jpg",
+        "price": "S$ 35.73",
+        "url": "https://opentrolley.com.sg/book/9781493052523/why-to-kill-a-mockingbird-matters-what-harper-lee-",
+        "provider": "OpenTrolley"
+    },
+    {
+        "original_isbn": "743273567",
+        "img": "https://otimages.com/Bookcover/3915/9781401603915.jpg",
+        "price": "S$ 56.89",
+        "url": "https://opentrolley.com.sg/book/9781401603915/grt-gatsby-pretty-bk-edition-",
+        "provider": "OpenTrolley"
+    }
+]
